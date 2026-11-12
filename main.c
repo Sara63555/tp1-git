@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Bonjour depuis Git\n");
-    printf("Ligne ajoutée\n");
+    printf("Bienvenue dans mon TP Git\n");
     return 0;
 }
